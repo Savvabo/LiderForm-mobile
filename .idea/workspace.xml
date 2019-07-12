@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/../whizzbees/css/all-pages.css" description="    97% {&#10;        opacity: .4;&#10;    }" line="166" />
+    <bookmark url="file://$PROJECT_DIR$/../whizzbees/css/global.css" description=".influenzy {" line="60" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="51c922c7-9491-4bc0-9e28-907e6a5c9987" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>effort-r</find>
+      <find>galop-additional-row</find>
+      <find>.card-race-stats-galop-active</find>
+      <find>0px</find>
+      <find>race-info-text</find>
+      <find>info-card-filter</find>
+      <find>text-left</find>
+      <find>MyClass</find>
+      <find>.info-card-list div</find>
+      <find>.card-race-stats-active:after</find>
+      <find>blur</find>
+      <find>logButton</find>
+      <find>loseFocus</find>
+      <find>perfomance-horse-age</find>
+      <find>perfomance-horse-notlar-icon</find>
+      <find>S/K</find>
+      <find>perfomance-horse-traner-icon</find>
+      <find>horse-notlar-icon</find>
+      <find>.card-active-stat</find>
+      <find>filterButton</find>
+      <find>.info-card-list-container</find>
+      <find>style=&quot;text-align: right;&quot;</find>
+      <find>.card-race-stats</find>
+      <find>class=&quot;text-right&quot;</find>
+      <find>carousel</find>
+      <find>16vw</find>
+      <find>modal</find>
+      <find>centerin</find>
+      <find>footer</find>
+      <find>showT</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>right</replace>
+      <replace>jokey</replace>
+      <replace>info-card-galop-list</replace>
+      <replace>horse-additional-info-card</replace>
+      <replace>kim-kim</replace>
+      <replace>horse-info-card-list</replace>
+      <replace>sprintler</replace>
+      <replace>card-race-stats-galop</replace>
+      <replace>perfomanslar</replace>
+      <replace>hide</replace>
+      <replace>0</replace>
+      <replace>18vw</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Ready/HW-4/hw-4" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Liderform-mobile-css/Header.css" />
+        <option value="$PROJECT_DIR$/Liderform-mobile-css/Footer.css" />
+        <option value="$PROJECT_DIR$/Ready/Experts_Tahminler/Otoriteler.css" />
+        <option value="$PROJECT_DIR$/Ready/Experts_Tahminler/U-Görüşü.css" />
+        <option value="$PROJECT_DIR$/Ready/Experts_Tahminler/Seyisbaşı.css" />
+        <option value="$PROJECT_DIR$/Ready/News/news.css" />
+        <option value="$PROJECT_DIR$/Ready/News/news-article.css" />
+        <option value="$PROJECT_DIR$/Ready/Statistics-horse/Statistics-horse.css" />
+        <option value="$PROJECT_DIR$/Ready/Statistics_Atlar_Details/Statistics_Atlar_Details.css" />
+        <option value="$PROJECT_DIR$/Ready/Experts_Tahminler/Otoriteler.html" />
+        <option value="$PROJECT_DIR$/Liderform-mobile-css/Main-tags.css" />
+        <option value="$PROJECT_DIR$/Ready/Statistics-horse/Statistics-horse.html" />
+        <option value="$PROJECT_DIR$/Ready/Experts_Tahminler/Seyisbaşı.html" />
+        <option value="$PROJECT_DIR$/Ready/Experts_Tahminler/U-Görüşü.html" />
+        <option value="$PROJECT_DIR$/Ready/News/news-article.html" />
+        <option value="$PROJECT_DIR$/Ready/News/news.html" />
+        <option value="$PROJECT_DIR$/Ready/home-try/home-try.html" />
+        <option value="$PROJECT_DIR$/Ready/home-try/home-try.css" />
+        <option value="$PROJECT_DIR$/Ready/home-try/homelider.css" />
+        <option value="$PROJECT_DIR$/Ready/sel-horse-page/sel-horse-page.html" />
+        <option value="$PROJECT_DIR$/Ready/sel-horse-page/sel-horse-page.css" />
+        <option value="$PROJECT_DIR$/Ready/Statistics_Atlar_Details/Statistics_Atlar_Details.html" />
+        <option value="$PROJECT_DIR$/Ready/jokey/jokey.css" />
+        <option value="$PROJECT_DIR$/Ready/sprintler/hhui.html" />
+        <option value="$PROJECT_DIR$/Ready/kim-kim-gecti/kim-kim-gecti.css" />
+        <option value="$PROJECT_DIR$/Ready/perfomanslar/perfomanslar.css" />
+        <option value="$PROJECT_DIR$/Ready/program/program.css" />
+        <option value="$PROJECT_DIR$/Ready/galop/galop.css" />
+        <option value="$PROJECT_DIR$/Ready/perfomanslar/perfomanslar.html" />
+        <option value="$PROJECT_DIR$/Ready/program/program.html" />
+        <option value="$PROJECT_DIR$/Ready/bulten-galop/bulten-galop.css" />
+        <option value="$PROJECT_DIR$/Ready/jokey/jokey.html" />
+        <option value="$PROJECT_DIR$/Ready/kim-kim-gecti/kim-kim-gecti.html" />
+        <option value="$PROJECT_DIR$/Ready/birincilikler/birincilikler.css" />
+        <option value="$PROJECT_DIR$/Ready/birincilikler/birincilikler.html" />
+        <option value="$PROJECT_DIR$/Ready/sprintler/sprintler.css" />
+        <option value="$PROJECT_DIR$/Ready/sprintler/sprintler.html" />
+        <option value="$PROJECT_DIR$/Ready/galop/galop.html" />
+        <option value="$PROJECT_DIR$/Ready/bulten-galop/bulten-galop.html" />
+        <option value="$PROJECT_DIR$/Liderform-mobile-css/Global.css" />
+        <option value="$PROJECT_DIR$/Ready/orijin/orijin.html" />
+        <option value="$PROJECT_DIR$/Ready/orijin/orijin.css" />
+        <option value="$PROJECT_DIR$/Ready/HW-4/cursor-hw-4.html" />
+        <option value="$PROJECT_DIR$/Ready/HW-4/cursor-hw-4.css" />
+        <option value="$PROJECT_DIR$/Ready/home-try/homelider.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="832" />
+    <option name="y" value="33" />
+    <option name="width" value="1059" />
+    <option name="height" value="1042" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Liderform-beta" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Liderform-beta" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Liderform-beta" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Liderform-beta" type="462c0819:PsiDirectoryNode" />
+              <item name="Liderform-mobile-css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Liderform-beta" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Liderform-beta" type="462c0819:PsiDirectoryNode" />
+              <item name="Ready" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Ready/HW-4/hw-4" />
+      <recent name="$PROJECT_DIR$/Ready" />
+      <recent name="$PROJECT_DIR$/icons" />
+      <recent name="$PROJECT_DIR$/Ready/home-try" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51c922c7-9491-4bc0-9e28-907e6a5c9987" name="Default Changelist" comment="" />
+      <created>1547455271918</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547455271918</updated>
+      <workItem from="1547455273357" duration="24667000" />
+      <workItem from="1547641054816" duration="3737000" />
+      <workItem from="1547657495008" duration="5724000" />
+      <workItem from="1547708870345" duration="6286000" />
+      <workItem from="1547728100032" duration="13942000" />
+      <workItem from="1547902704444" duration="2560000" />
+      <workItem from="1547905523803" duration="1287000" />
+      <workItem from="1547911723713" duration="4122000" />
+      <workItem from="1548070114356" duration="121830000" />
+      <workItem from="1548855349770" duration="10235000" />
+      <workItem from="1549215056988" duration="15774000" />
+      <workItem from="1550511303703" duration="19740000" />
+      <workItem from="1550643316141" duration="37931000" />
+      <workItem from="1551085041479" duration="982000" />
+      <workItem from="1551359051850" duration="5066000" />
+      <workItem from="1551781709683" duration="4567000" />
+      <workItem from="1551908678719" duration="1456000" />
+      <workItem from="1551977526791" duration="7000" />
+      <workItem from="1551996033449" duration="626000" />
+      <workItem from="1552022584654" duration="599000" />
+      <workItem from="1552120389951" duration="599000" />
+      <workItem from="1552302368831" duration="599000" />
+      <workItem from="1552383517985" duration="599000" />
+      <workItem from="1553684040806" duration="659000" />
+      <workItem from="1553709067306" duration="5004000" />
+      <workItem from="1553801152399" duration="1000" />
+      <workItem from="1553803391923" duration="24000" />
+      <workItem from="1556802401967" duration="795000" />
+      <workItem from="1557139153917" duration="597000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="290023000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="70" y="-8" width="1858" height="1096" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.12582418" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" weight="0.3297414" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.3297414" />
+      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="SvgViewer" order="1" weight="0.33370227" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.12617598" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" weight="0.3297414" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.3297414" />
+      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="SvgViewer" order="1" weight="0.33370227" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Liderform-mobile-css/Footer.css" />
+    <entry file="file://$PROJECT_DIR$/Ready/Experts_Tahminler/U-Görüşü.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ready/Experts_Tahminler/Seyisbaşı.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ready/News/news.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="664">
+          <caret line="342" column="4" selection-start-line="342" selection-start-column="4" selection-end-line="342" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ready/News/news-article.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="330" selection-start-line="330" selection-end-line="330" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ready/Statistics-horse/Statistics-horse.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2277">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fonts/fonts.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="138" column="17" lean-forward="true" selection-start-line="138" selection-start-column="17" selection-end-line="138" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ready/Experts_Tahminler/Otoriteler.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="14" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ready/Experts_Tahminler/Otoriteler.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="868">
+          <caret line="214" column="19" lean-forward="true" selection-start-line="214" selection-start-column="19" selection-end-line="214" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ready/Experts_Tahminler/Seyisbaşı.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="72" selection-start-line="14" selection-start-column="72" selection-end-line="14" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ready/Experts_Tahminler/U-Görüşü.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="72" selection-start-line="14" selection-start-column="72" selection-end-line="14" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ready/News/news-article.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="72" selection-start-line="13" selection-start-column="72" selection-end-line="13" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ready/News/news.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="72" selection-start-line="14" selection-start-column="72" selection-end-line="14" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ready/sign-up/sign-up.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7530">
+          <caret line="502" column="3" selection-start-line="502" selection-start-column="3" selection-end-line="502" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ready/Statistics-horse/Statistics-horse.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="72" selection-start-line="14" selection-start-column="72" selection-end-line="14" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ready/Statistics_Atlar_Details/Statistics_Atlar_Details.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="63" selection-start-line="63" selection-end-line="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ready/Statistics_Atlar_Details/Statistics_Atlar_Details.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="78" column="15" selection-start-line="78" selection-start-column="15" selection-end-line="85" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#a#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#3;n#ul#0;n#div#1;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#2;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#1;n#ul#0;n#div#2;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#2;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#1;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#2;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#2;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#2;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#3;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#2;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#4;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#2;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#5;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#2;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#6;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#2;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#7;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#2;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#8;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#2;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#9;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#2;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#10;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#2;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#11;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#2;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#12;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#2;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#13;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#2;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#14;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#2;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#15;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#2;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#16;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#2;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#div#0;n#div#3;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#3;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#1;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#3;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#2;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#3;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#3;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#3;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#4;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#3;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#5;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#3;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#6;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#3;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#7;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#3;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#8;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#3;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#9;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#3;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#10;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#3;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#11;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#3;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#12;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#3;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#13;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#3;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#14;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#3;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ready/sel-horse-page/sel-horse-page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="127" column="41" lean-forward="true" selection-start-line="127" selection-start-column="36" selection-end-line="127" selection-end-column="45" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#section#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ready/sel-horse-page/sel-horse-page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="39" selection-start-line="39" selection-end-line="49" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icons/Ions-02.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icons/Ions-01.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icons/Ions-15.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icons/Ions-13.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icons/Ions-12.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ready/sprintler/hhui.html" />
+    <entry file="file://$PROJECT_DIR$/Ready/sign-up/sign-up.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="108" column="89" lean-forward="true" selection-start-line="108" selection-start-column="68" selection-end-line="108" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ready/jokey/jokey.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="115" column="21" selection-start-line="115" selection-start-column="21" selection-end-line="115" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ready/program/program.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="846">
+          <caret line="138" column="1" selection-start-line="138" selection-start-column="1" selection-end-line="138" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ready/perfomanslar/perfomanslar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="188" selection-start-line="188" selection-end-line="206" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#a#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#1;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ready/jokey/jokey.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="309" column="5" selection-start-line="309" selection-start-column="5" selection-end-line="309" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ready/kim-kim-gecti/kim-kim-gecti.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="618">
+          <caret line="241" column="14" lean-forward="true" selection-start-line="241" selection-start-column="14" selection-end-line="241" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ready/HW-4/cursor-hw-4.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7140">
+          <caret line="476" column="22" selection-start-line="476" selection-start-column="22" selection-end-line="476" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ready/HW-4/hw-4/cursor-hw-4.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Liderform-mobile-css/Global.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="841">
+          <caret line="96" selection-start-line="96" selection-end-line="123" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ready/sprintler/sprintler.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1309">
+          <caret line="77" column="25" selection-start-line="77" selection-start-column="25" selection-end-line="77" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ready/orijin/orijin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5117">
+          <caret line="301" selection-start-line="301" selection-end-line="314" selection-end-column="9" />
+          <folding>
+            <element signature="n#style#0;n#a#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ready/galop/galop.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2652">
+          <caret line="156" column="6" selection-start-line="156" selection-start-column="6" selection-end-line="159" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#a#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#1;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ready/program/program.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6868">
+          <caret line="404" column="26" selection-start-line="404" selection-end-line="407" selection-end-column="5" />
+          <folding>
+            <element signature="n#style#0;n#a#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ready/sprintler/sprintler.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3842">
+          <caret line="226" column="8" selection-start-line="226" selection-start-column="8" selection-end-line="226" selection-end-column="8" />
+          <folding>
+            <element signature="n#style#0;n#a#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ready/birincilikler/birincilikler.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3128">
+          <caret line="184" selection-start-line="184" selection-end-line="203" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#a#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#1;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ready/bulten-galop/bulten-galop.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4743">
+          <caret line="279" column="14" selection-start-line="279" selection-start-column="14" selection-end-line="279" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#a#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ready/galop/galop.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="60" column="37" selection-start-line="60" selection-start-column="37" selection-end-line="60" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ready/home-try/homelider.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ready/bulten-galop/bulten-galop.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ready/orijin/orijin.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Liderform-mobile-css/Main-tags.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ready/HW-4/cursor-hw-4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1598">
+          <caret line="94" column="73" selection-start-line="94" selection-start-column="55" selection-end-line="94" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ready/kim-kim-gecti/kim-kim-gecti.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ready/birincilikler/birincilikler.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ready/perfomanslar/perfomanslar.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1768">
+          <caret line="104" column="27" selection-start-line="104" selection-start-column="2" selection-end-line="104" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ready/home-try/homelider.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="1178" column="39" selection-start-line="1178" selection-start-column="39" selection-end-line="1178" selection-end-column="65" />
+          <folding>
+            <element signature="n#style#0;n#div#3;n#div#0;n#div#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#7;n#div#0;n#div#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
